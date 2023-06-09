@@ -1,0 +1,1071 @@
+---
+- :1001:
+    :ral_name: RAL 1001
+    :hex_value: D0B084
+    :english_name: Beige
+    :ukrainian_name: Бежевий
+- :1002:
+    :ral_name: RAL 1002
+    :hex_value: D2AA6D
+    :english_name: Sand yellow
+    :ukrainian_name: Пісочно-жовтий
+- :1003:
+    :ral_name: RAL 1003
+    :hex_value: F9A800
+    :english_name: Signal yellow
+    :ukrainian_name: Сигнально-жовтий
+- :1004:
+    :ral_name: RAL 1004
+    :hex_value: E49E00
+    :english_name: Golden yellow
+    :ukrainian_name: Золотисто-жовтий
+- :1005:
+    :ral_name: RAL 1005
+    :hex_value: CB8E00
+    :english_name: Honey yellow
+    :ukrainian_name: Медово-жовтий
+- :1006:
+    :ral_name: RAL 1006
+    :hex_value: E29000
+    :english_name: Maize yellow
+    :ukrainian_name: Кукурудзяно-жовтий
+- :1007:
+    :ral_name: RAL 1007
+    :hex_value: E88C00
+    :english_name: Daffodil yellow
+    :ukrainian_name: Нарцисово-жовтий
+- :1011:
+    :ral_name: RAL 1011
+    :hex_value: AF804F
+    :english_name: Brown beige
+    :ukrainian_name: Коричнево-бежевий
+- :1012:
+    :ral_name: RAL 1012
+    :hex_value: DDAF27
+    :english_name: Lemon yellow
+    :ukrainian_name: Лимонно-жовтий
+- :1013:
+    :ral_name: RAL 1013
+    :hex_value: E3D9C6
+    :english_name: Oyster white
+    :ukrainian_name: Устрично-білий
+- :1014:
+    :ral_name: RAL 1014
+    :hex_value: DDC49A
+    :english_name: Ivory
+    :ukrainian_name: Слонова кістка
+- :1015:
+    :ral_name: RAL 1015
+    :hex_value: E6D2B5
+    :english_name: Light ivory
+    :ukrainian_name: Світла слонова кістка
+- :1016:
+    :ral_name: RAL 1016
+    :hex_value: F1DD38
+    :english_name: Sulfur yellow
+    :ukrainian_name: Сірчано-жовтий
+- :1017:
+    :ral_name: RAL 1017
+    :hex_value: F6A950
+    :english_name: Saffron yellow
+    :ukrainian_name: Шафраново-жовтий
+- :1018:
+    :ral_name: RAL 1018
+    :hex_value: FACA30
+    :english_name: Zinc yellow
+    :ukrainian_name: Цинково-жовтий
+- :1019:
+    :ral_name: RAL 1019
+    :hex_value: A48F7A
+    :english_name: Grey beige
+    :ukrainian_name: Сіро-бежевий
+- :1020:
+    :ral_name: RAL 1020
+    :hex_value: A08F65
+    :english_name: Olive yellow
+    :ukrainian_name: Оливково-жовтий
+- :1021:
+    :ral_name: RAL 1021
+    :hex_value: F6B600
+    :english_name: Colza yellow
+    :ukrainian_name: Рапсово-жовтий
+- :1023:
+    :ral_name: RAL 1023
+    :hex_value: F7B500
+    :english_name: Traffic yellow
+    :ukrainian_name: Жовтий колір руху
+- :1024:
+    :ral_name: RAL 1024
+    :hex_value: BA8F4C
+    :english_name: Ochre yellow
+    :ukrainian_name: Жовта охра
+- :1026:
+    :ral_name: RAL 1026
+    :hex_value: FFFF00
+    :english_name: Luminous yellow
+    :ukrainian_name: Світловідбиваючий жовтий
+- :1027:
+    :ral_name: RAL 1027
+    :hex_value: A77F0E
+    :english_name: Curry
+    :ukrainian_name: Каррі
+- :1028:
+    :ral_name: RAL 1028
+    :hex_value: FF9B00
+    :english_name: Melon yellow
+    :ukrainian_name: Диня жовта
+- :1032:
+    :ral_name: RAL 1032
+    :hex_value: E2A300
+    :english_name: Broom yellow
+    :ukrainian_name: Жарновець жовтий
+- :1033:
+    :ral_name: RAL 1033
+    :hex_value: F99A1C
+    :english_name: Dahlia yellow
+    :ukrainian_name: Жоржина жовта
+- :1034:
+    :ral_name: RAL 1034
+    :hex_value: EB9C52
+    :english_name: Pastel yellow
+    :ukrainian_name: Пастельно-жовтий
+- :1035:
+    :ral_name: RAL 1035
+    :hex_value: '908370'
+    :english_name: Pearl beige
+    :ukrainian_name: Перлинно-бежевий
+- :1036:
+    :ral_name: RAL 1036
+    :hex_value: 80643F
+    :english_name: Pearl gold
+    :ukrainian_name: Золотисто-перлинний
+- :1037:
+    :ral_name: RAL 1037
+    :hex_value: F09200
+    :english_name: Sun yellow
+    :ukrainian_name: Сонячно-жовтий
+- :2000:
+    :ral_name: RAL 2000
+    :hex_value: DD7907
+    :english_name: Yellow orange
+    :ukrainian_name: Жовто-помаранчевий
+- :2001:
+    :ral_name: RAL 2001
+    :hex_value: BE4E20
+    :english_name: Red orange
+    :ukrainian_name: Червоно-помаранчевий
+- :2002:
+    :ral_name: RAL 2002
+    :hex_value: C63927
+    :english_name: Vermilion
+    :ukrainian_name: Яскраво-червоний
+- :2003:
+    :ral_name: RAL 2003
+    :hex_value: FA842B
+    :english_name: Pastel orange
+    :ukrainian_name: Пастельно-помаранчевий
+- :2004:
+    :ral_name: RAL 2004
+    :hex_value: E75B12
+    :english_name: Pure orange
+    :ukrainian_name: Чисто-помаранчевий
+- :2005:
+    :ral_name: RAL 2005
+    :hex_value: FF2300
+    :english_name: Luminous orange
+    :ukrainian_name: Світловідбиваючий помаранчевий
+- :2007:
+    :ral_name: RAL 2007
+    :hex_value: FFA421
+    :english_name: Luminous bright orange
+    :ukrainian_name: Яскраво світловідбиваючий помаранчевий
+- :2008:
+    :ral_name: RAL 2008
+    :hex_value: F3752C
+    :english_name: Bright red orange
+    :ukrainian_name: Яскравий червоно-помаранчевий
+- :2009:
+    :ral_name: RAL 2009
+    :hex_value: E15501
+    :english_name: Traffic orange
+    :ukrainian_name: Дорожній помаранчевий
+- :2010:
+    :ral_name: RAL 2010
+    :hex_value: D4652F
+    :english_name: Signal orange
+    :ukrainian_name: Сигнальний помаранчевий
+- :2011:
+    :ral_name: RAL 2011
+    :hex_value: EC7C25
+    :english_name: Deep orange
+    :ukrainian_name: Глибокий помаранчевий
+- :2012:
+    :ral_name: RAL 2012
+    :hex_value: DB6A50
+    :english_name: Salmon orange
+    :ukrainian_name: Лососевий помаранчевий
+- :2013:
+    :ral_name: RAL 2013
+    :hex_value: '954527'
+    :english_name: Pearl orange
+    :ukrainian_name: Перлинно-помаранчевий
+- :2017:
+    :ral_name: RAL 2017
+    :hex_value: fa4402
+    :english_name: RAL orange
+    :ukrainian_name: RAL помаранчевий
+- :3000:
+    :ral_name: RAL 3000
+    :hex_value: AB2524
+    :english_name: Flame red
+    :ukrainian_name: Вогняно-червоний
+- :3001:
+    :ral_name: RAL 3001
+    :hex_value: A02128
+    :english_name: Signal red
+    :ukrainian_name: Сигнально-червоний
+- :3002:
+    :ral_name: RAL 3002
+    :hex_value: A1232B
+    :english_name: Carmine red
+    :ukrainian_name: Карміново-червоний
+- :3003:
+    :ral_name: RAL 3003
+    :hex_value: 8D1D2C
+    :english_name: Ruby red
+    :ukrainian_name: Рубіновий червоний
+- :3004:
+    :ral_name: RAL 3004
+    :hex_value: 701F29
+    :english_name: Purple red
+    :ukrainian_name: Пурпурово-червоний
+- :3005:
+    :ral_name: RAL 3005
+    :hex_value: 5E2028
+    :english_name: Wine red
+    :ukrainian_name: Винно-червоний
+- :3007:
+    :ral_name: RAL 3007
+    :hex_value: '402225'
+    :english_name: Black red
+    :ukrainian_name: Чорно-червоний
+- :3009:
+    :ral_name: RAL 3009
+    :hex_value: '703731'
+    :english_name: Oxide red
+    :ukrainian_name: Оксидний червоний
+- :3011:
+    :ral_name: RAL 3011
+    :hex_value: 7E292C
+    :english_name: Brown red
+    :ukrainian_name: Коричнево-червоний
+- :3012:
+    :ral_name: RAL 3012
+    :hex_value: CB8D73
+    :english_name: Beige red
+    :ukrainian_name: Бежево-червоний
+- :3013:
+    :ral_name: RAL 3013
+    :hex_value: 9C322E
+    :english_name: Tomato red
+    :ukrainian_name: Помідорний червоний
+- :3014:
+    :ral_name: RAL 3014
+    :hex_value: D47479
+    :english_name: Antique pink
+    :ukrainian_name: Антично-рожевий
+- :3015:
+    :ral_name: RAL 3015
+    :hex_value: E1A6AD
+    :english_name: Light pink
+    :ukrainian_name: Світло-рожевий
+- :3016:
+    :ral_name: RAL 3016
+    :hex_value: AC4034
+    :english_name: Coral red
+    :ukrainian_name: Кораловий червоний
+- :3017:
+    :ral_name: RAL 3017
+    :hex_value: D3545F
+    :english_name: Rose
+    :ukrainian_name: Рожевий
+- :3018:
+    :ral_name: RAL 3018
+    :hex_value: D14152
+    :english_name: Strawberry red
+    :ukrainian_name: Полунично-червоний
+- :3020:
+    :ral_name: RAL 3020
+    :hex_value: C1121C
+    :english_name: Traffic red
+    :ukrainian_name: Дорожній червоний
+- :3022:
+    :ral_name: RAL 3022
+    :hex_value: D56D56
+    :english_name: Salmon pink
+    :ukrainian_name: Лососевий рожевий
+- :3024:
+    :ral_name: RAL 3024
+    :hex_value: F70000
+    :english_name: Luminous red
+    :ukrainian_name: Світловідбиваючий червоний
+- :3026:
+    :ral_name: RAL 3026
+    :hex_value: FF0000
+    :english_name: Luminous bright red
+    :ukrainian_name: Яскраво світловідбиваючий червоний
+- :3027:
+    :ral_name: RAL 3027
+    :hex_value: B42041
+    :english_name: Raspberry red
+    :ukrainian_name: Малиновий червоний
+- :3028:
+    :ral_name: RAL 3028
+    :hex_value: E72512
+    :english_name: Pure red
+    :ukrainian_name: Чисто-червоний
+- :3031:
+    :ral_name: RAL 3031
+    :hex_value: AC323B
+    :english_name: Orient red
+    :ukrainian_name: Орієнт червоний
+- :3032:
+    :ral_name: RAL 3032
+    :hex_value: '711521'
+    :english_name: Pearl ruby red
+    :ukrainian_name: Перлинно-рубіновий червоний
+- :3033:
+    :ral_name: RAL 3033
+    :hex_value: B24C43
+    :english_name: Pearl pink
+    :ukrainian_name: Перлинно-рожевий
+- :4001:
+    :ral_name: RAL 4001
+    :hex_value: 8A5A83
+    :english_name: Red lilac
+    :ukrainian_name: Червоно-бузковий
+- :4002:
+    :ral_name: RAL 4002
+    :hex_value: 933D50
+    :english_name: Red violet
+    :ukrainian_name: Червоно-фіолетовий
+- :4003:
+    :ral_name: RAL 4003
+    :hex_value: D15B8F
+    :english_name: Heather violet
+    :ukrainian_name: Вересовий фіолетовий
+- :4004:
+    :ral_name: RAL 4004
+    :hex_value: '691639'
+    :english_name: Claret violet
+    :ukrainian_name: Бордово-фіолетовий
+- :4005:
+    :ral_name: RAL 4005
+    :hex_value: 83639D
+    :english_name: Blue lilac
+    :ukrainian_name: Синій бузковий колір
+- :4006:
+    :ral_name: RAL 4006
+    :hex_value: '992572'
+    :english_name: Traffic purple
+    :ukrainian_name: Дорожній фіолетовий
+- :4007:
+    :ral_name: RAL 4007
+    :hex_value: 4A203B
+    :english_name: Purple violet
+    :ukrainian_name: Пурпурно фіолетовий
+- :4008:
+    :ral_name: RAL 4008
+    :hex_value: '904684'
+    :english_name: Signal violet
+    :ukrainian_name: Сигнально-фіолетовий
+- :4009:
+    :ral_name: RAL 4009
+    :hex_value: A38995
+    :english_name: Pastel violet
+    :ukrainian_name: Пастельно-фіолетовий
+- :4010:
+    :ral_name: RAL 4010
+    :hex_value: C63678
+    :english_name: Telemagenta
+    :ukrainian_name: Телемагента
+- :4011:
+    :ral_name: RAL 4011
+    :hex_value: 8773A1
+    :english_name: Pearl violet
+    :ukrainian_name: Перлинно-фіолетовий
+- :4012:
+    :ral_name: RAL 4012
+    :hex_value: 6B6880
+    :english_name: Pearl blackberry
+    :ukrainian_name: Ожинo-перламутровий
+- :5000:
+    :ral_name: RAL 5000
+    :hex_value: 384C70
+    :english_name: Violet blue
+    :ukrainian_name: Синьо-фіолетовий
+- :5001:
+    :ral_name: RAL 5001
+    :hex_value: 1F4764
+    :english_name: Green blue
+    :ukrainian_name: Зелено-синій
+- :5002:
+    :ral_name: RAL 5002
+    :hex_value: 2B2C7C
+    :english_name: Ultramarine blue
+    :ukrainian_name: Ультрамариновий синій
+- :5003:
+    :ral_name: RAL 5003
+    :hex_value: 2A3756
+    :english_name: Sapphire blue
+    :ukrainian_name: Сапфіровий синій
+- :5004:
+    :ral_name: RAL 5004
+    :hex_value: 1D1F2A
+    :english_name: Black blue
+    :ukrainian_name: Чорно-синій
+- :5005:
+    :ral_name: RAL 5005
+    :hex_value: '154889'
+    :english_name: Signal blue
+    :ukrainian_name: Сигнальний синій
+- :5007:
+    :ral_name: RAL 5007
+    :hex_value: 41678D
+    :english_name: Brilliant blue
+    :ukrainian_name: Брильянтово-синій
+- :5008:
+    :ral_name: RAL 5008
+    :hex_value: 313C48
+    :english_name: Grey blue
+    :ukrainian_name: Сіро-синій
+- :5009:
+    :ral_name: RAL 5009
+    :hex_value: 2E5978
+    :english_name: Azure blue
+    :ukrainian_name: Лазурно-синій
+- :5010:
+    :ral_name: RAL 5010
+    :hex_value: 13447C
+    :english_name: Gentian blue
+    :ukrainian_name: Генціаново-синій
+- :5011:
+    :ral_name: RAL 5011
+    :hex_value: 232C3F
+    :english_name: Steel blue
+    :ukrainian_name: Сталево-синій
+- :5012:
+    :ral_name: RAL 5012
+    :hex_value: 3481B8
+    :english_name: Light blue
+    :ukrainian_name: Світло-синій
+- :5013:
+    :ral_name: RAL 5013
+    :hex_value: 232D53
+    :english_name: Cobalt blue
+    :ukrainian_name: Кобальтово-синій
+- :5014:
+    :ral_name: RAL 5014
+    :hex_value: 6C7C98
+    :english_name: Pigeon blue
+    :ukrainian_name: Голубино-синій
+- :5015:
+    :ral_name: RAL 5015
+    :hex_value: 2874B2
+    :english_name: Sky blue
+    :ukrainian_name: Небесно-синій
+- :5017:
+    :ral_name: RAL 5017
+    :hex_value: 0E518D
+    :english_name: Traffic blue
+    :ukrainian_name: Дорожній синій
+- :5018:
+    :ral_name: RAL 5018
+    :hex_value: 21888F
+    :english_name: Turquoise blue
+    :ukrainian_name: Бірюзовий синій
+- :5019:
+    :ral_name: RAL 5019
+    :hex_value: 1A5784
+    :english_name: Capri blue
+    :ukrainian_name: Капрі синій
+- :5020:
+    :ral_name: RAL 5020
+    :hex_value: 0B4151
+    :english_name: Ocean blue
+    :ukrainian_name: Cиній океан
+- :5021:
+    :ral_name: RAL 5021
+    :hex_value: 07737A
+    :english_name: Water blue
+    :ukrainian_name: Водна синь
+- :5022:
+    :ral_name: RAL 5022
+    :hex_value: 2F2A5A
+    :english_name: Night blue
+    :ukrainian_name: Нічний синій
+- :5023:
+    :ral_name: RAL 5023
+    :hex_value: 4D668E
+    :english_name: Distant blue
+    :ukrainian_name: Далека синь
+- :5024:
+    :ral_name: RAL 5024
+    :hex_value: 6A93B0
+    :english_name: Pastel blue
+    :ukrainian_name: Пастельно-синій
+- :5025:
+    :ral_name: RAL 5025
+    :hex_value: '296478'
+    :english_name: Pearl Gentian blue
+    :ukrainian_name: Перлинно-синій
+- :5026:
+    :ral_name: RAL 5026
+    :hex_value: 102C54
+    :english_name: Pearl night blue
+    :ukrainian_name: Перлинно-синя ніч
+- :6000:
+    :ral_name: RAL 6000
+    :hex_value: '327662'
+    :english_name: Patina green
+    :ukrainian_name: Патиново-зелений
+- :6001:
+    :ral_name: RAL 6001
+    :hex_value: 28713E
+    :english_name: Emerald green
+    :ukrainian_name: Ізумрудно-зелений
+- :6002:
+    :ral_name: RAL 6002
+    :hex_value: '276235'
+    :english_name: Leaf green
+    :ukrainian_name: Листяно-зелений
+- :6003:
+    :ral_name: RAL 6003
+    :hex_value: 4B573E
+    :english_name: Olive green
+    :ukrainian_name: Оливково-зелений
+- :6004:
+    :ral_name: RAL 6004
+    :hex_value: 0E4243
+    :english_name: Blue green
+    :ukrainian_name: Синьо-зелений
+- :6005:
+    :ral_name: RAL 6005
+    :hex_value: 0F4336
+    :english_name: Moss green
+    :ukrainian_name: Мохово-зелений
+- :6006:
+    :ral_name: RAL 6006
+    :hex_value: 40433B
+    :english_name: Grey olive
+    :ukrainian_name: Сіро-оливковий
+- :6007:
+    :ral_name: RAL 6007
+    :hex_value: '283424'
+    :english_name: Bottle green
+    :ukrainian_name: Пляшково-зелений
+- :6008:
+    :ral_name: RAL 6008
+    :hex_value: 35382E
+    :english_name: Brown green
+    :ukrainian_name: Коричнево-зелений
+- :6009:
+    :ral_name: RAL 6009
+    :hex_value: 26392F
+    :english_name: Fir green
+    :ukrainian_name: Хвойно-зелений
+- :6010:
+    :ral_name: RAL 6010
+    :hex_value: 3E753B
+    :english_name: Grass green
+    :ukrainian_name: Трав’яно-зелений
+- :6011:
+    :ral_name: RAL 6011
+    :hex_value: 68825B
+    :english_name: Reseda green
+    :ukrainian_name: Резедово зелений
+- :6012:
+    :ral_name: RAL 6012
+    :hex_value: 31403D
+    :english_name: Black green
+    :ukrainian_name: Чорно-зелений
+- :6013:
+    :ral_name: RAL 6013
+    :hex_value: 797C5A
+    :english_name: Reed green
+    :ukrainian_name: Тростниково-зелений
+- :6014:
+    :ral_name: RAL 6014
+    :hex_value: '444337'
+    :english_name: Yellow olive
+    :ukrainian_name: Жовто-оливковий
+- :6015:
+    :ral_name: RAL 6015
+    :hex_value: 3D403A
+    :english_name: Black olive
+    :ukrainian_name: Чорно-оливковий
+- :6016:
+    :ral_name: RAL 6016
+    :hex_value: 026A52
+    :english_name: Turquoise green
+    :ukrainian_name: Бірюзово-зелений
+- :6017:
+    :ral_name: RAL 6017
+    :hex_value: '468641'
+    :english_name: May green
+    :ukrainian_name: Травнево-зелений
+- :6018:
+    :ral_name: RAL 6018
+    :hex_value: 48A43F
+    :english_name: Yellow green
+    :ukrainian_name: Жовто-зелений
+- :6019:
+    :ral_name: RAL 6019
+    :hex_value: B7D9B1
+    :english_name: Pastel green
+    :ukrainian_name: Пастельно-зелений
+- :6020:
+    :ral_name: RAL 6020
+    :hex_value: '354733'
+    :english_name: Chrome green
+    :ukrainian_name: Хромовий зелений
+- :6021:
+    :ral_name: RAL 6021
+    :hex_value: 86A47C
+    :english_name: Pale green
+    :ukrainian_name: Блідо-зелений
+- :6022:
+    :ral_name: RAL 6022
+    :hex_value: 3E3C32
+    :english_name: Olive-drab/brown olive
+    :ukrainian_name: Оливково-коричневий
+- :6024:
+    :ral_name: RAL 6024
+    :hex_value: '008754'
+    :english_name: Traffic green
+    :ukrainian_name: Дорожній зелений
+- :6025:
+    :ral_name: RAL 6025
+    :hex_value: 53753C
+    :english_name: Fern green
+    :ukrainian_name: Папоротево-зелений
+- :6026:
+    :ral_name: RAL 6026
+    :hex_value: 005D52
+    :english_name: Opal green
+    :ukrainian_name: Опаловий зелений
+- :6027:
+    :ral_name: RAL 6027
+    :hex_value: 81C0BB
+    :english_name: Light green
+    :ukrainian_name: Світло-зелений
+- :6028:
+    :ral_name: RAL 6028
+    :hex_value: 2D5546
+    :english_name: Pine green
+    :ukrainian_name: Сосновий зелений
+- :6029:
+    :ral_name: RAL 6029
+    :hex_value: '007243'
+    :english_name: Mint green
+    :ukrainian_name: М'ятно-зелений
+- :6032:
+    :ral_name: RAL 6032
+    :hex_value: 0F8558
+    :english_name: Signal green
+    :ukrainian_name: Сигнальний зелений
+- :6033:
+    :ral_name: RAL 6033
+    :hex_value: 478A84
+    :english_name: Mint turquoise
+    :ukrainian_name: М'ятно-бірюзовий
+- :6034:
+    :ral_name: RAL 6034
+    :hex_value: 7FB0B2
+    :english_name: Pastel turquoise
+    :ukrainian_name: Пастельно-бірюзовий
+- :6035:
+    :ral_name: RAL 6035
+    :hex_value: 1B542C
+    :english_name: Pearl green
+    :ukrainian_name: Перлиново-зелений
+- :6036:
+    :ral_name: RAL 6036
+    :hex_value: 005D4C
+    :english_name: Pearl opal green
+    :ukrainian_name: Перлиновий опаловий зелений
+- :6037:
+    :ral_name: RAL 6037
+    :hex_value: 25E712
+    :english_name: Pure green
+    :ukrainian_name: Чисто-зелений
+- :6038:
+    :ral_name: RAL 6038
+    :hex_value: 00F700
+    :english_name: Luminous green
+    :ukrainian_name: Світловідбиваючий зелений
+- :7000:
+    :ral_name: RAL 7000
+    :hex_value: 7E8B92
+    :english_name: Squirrel grey
+    :ukrainian_name: Сіра білка
+- :7001:
+    :ral_name: RAL 7001
+    :hex_value: 8F999F
+    :english_name: Silver grey
+    :ukrainian_name: Сріблясто-сірий
+- :7002:
+    :ral_name: RAL 7002
+    :hex_value: 817F68
+    :english_name: Olive grey
+    :ukrainian_name: Оливково-сірий
+- :7003:
+    :ral_name: RAL 7003
+    :hex_value: 7A7B6D
+    :english_name: Moss grey
+    :ukrainian_name: Мохово-сірий
+- :7004:
+    :ral_name: RAL 7004
+    :hex_value: 9EA0A1
+    :english_name: Signal grey
+    :ukrainian_name: Сигнальний сірий
+- :7005:
+    :ral_name: RAL 7005
+    :hex_value: 6B716F
+    :english_name: Mouse grey
+    :ukrainian_name: Мишино-сірий
+- :7006:
+    :ral_name: RAL 7006
+    :hex_value: 756F61
+    :english_name: Beige grey
+    :ukrainian_name: Бежево-сірий
+- :7008:
+    :ral_name: RAL 7008
+    :hex_value: '746643'
+    :english_name: Khaki grey
+    :ukrainian_name: Хакі сірий
+- :7009:
+    :ral_name: RAL 7009
+    :hex_value: 5B6259
+    :english_name: Green grey
+    :ukrainian_name: Зелено-сірий
+- :7010:
+    :ral_name: RAL 7010
+    :hex_value: 575D57
+    :english_name: Tarpaulin grey
+    :ukrainian_name: Брезентово-сірий
+- :7011:
+    :ral_name: RAL 7011
+    :hex_value: 555D61
+    :english_name: Iron grey
+    :ukrainian_name: Залізно-сірий
+- :7012:
+    :ral_name: RAL 7012
+    :hex_value: '596163'
+    :english_name: Basalt grey
+    :ukrainian_name: Базальтово-сірий
+- :7013:
+    :ral_name: RAL 7013
+    :hex_value: '555548'
+    :english_name: Brown grey
+    :ukrainian_name: Коричнево-сірий
+- :7015:
+    :ral_name: RAL 7015
+    :hex_value: 51565C
+    :english_name: Slate grey
+    :ukrainian_name: Сланцево-сірий
+- :7016:
+    :ral_name: RAL 7016
+    :hex_value: 373F43
+    :english_name: Anthracite grey
+    :ukrainian_name: Антрацитово-сірий
+- :7021:
+    :ral_name: RAL 7021
+    :hex_value: 2E3234
+    :english_name: Black grey
+    :ukrainian_name: Чорно-сірий
+- :7022:
+    :ral_name: RAL 7022
+    :hex_value: 4B4D46
+    :english_name: Umbra grey
+    :ukrainian_name: Умбровий сірий
+- :7023:
+    :ral_name: RAL 7023
+    :hex_value: '818479'
+    :english_name: Concrete grey
+    :ukrainian_name: Бетонно-сірий
+- :7024:
+    :ral_name: RAL 7024
+    :hex_value: 474A50
+    :english_name: Graphite grey
+    :ukrainian_name: Графітово-сірий
+- :7026:
+    :ral_name: RAL 7026
+    :hex_value: '374447'
+    :english_name: Granite grey
+    :ukrainian_name: Гранітно-сірий
+- :7030:
+    :ral_name: RAL 7030
+    :hex_value: '939388'
+    :english_name: Stone grey
+    :ukrainian_name: Кам’яно-сірий
+- :7031:
+    :ral_name: RAL 7031
+    :hex_value: 5D6970
+    :english_name: Blue grey
+    :ukrainian_name: Сіро-синій
+- :7032:
+    :ral_name: RAL 7032
+    :hex_value: B9B9A8
+    :english_name: Pebble grey
+    :ukrainian_name: Гальково-сірий
+- :7033:
+    :ral_name: RAL 7033
+    :hex_value: '818979'
+    :english_name: Cement grey
+    :ukrainian_name: Цементно-сірий
+- :7034:
+    :ral_name: RAL 7034
+    :hex_value: '939176'
+    :english_name: Yellow grey
+    :ukrainian_name: Жовто-сірий
+- :7035:
+    :ral_name: RAL 7035
+    :hex_value: CBD0CC
+    :english_name: Light grey
+    :ukrainian_name: Світло-сірий
+- :7036:
+    :ral_name: RAL 7036
+    :hex_value: 9A9697
+    :english_name: Platinum grey
+    :ukrainian_name: Платиново-сірий
+- :7037:
+    :ral_name: RAL 7037
+    :hex_value: 7C7F7E
+    :english_name: Dusty grey
+    :ukrainian_name: Пильно-сірий
+- :7038:
+    :ral_name: RAL 7038
+    :hex_value: B4B8B0
+    :english_name: Agate grey
+    :ukrainian_name: Агатовий сірий
+- :7039:
+    :ral_name: RAL 7039
+    :hex_value: 6B695F
+    :english_name: Quartz grey
+    :ukrainian_name: Кварцовий сірий
+- :7040:
+    :ral_name: RAL 7040
+    :hex_value: 9DA3A6
+    :english_name: Window grey
+    :ukrainian_name: Віконно-сірий
+- :7042:
+    :ral_name: RAL 7042
+    :hex_value: 8F9695
+    :english_name: Traffic grey A
+    :ukrainian_name: Дорожній сірий A
+- :7043:
+    :ral_name: RAL 7043
+    :hex_value: 4E5451
+    :english_name: Traffic grey B
+    :ukrainian_name: Дорожній сірий B
+- :7044:
+    :ral_name: RAL 7044
+    :hex_value: BDBDB2
+    :english_name: Silk grey
+    :ukrainian_name: Шовковий сірий
+- :7045:
+    :ral_name: RAL 7045
+    :hex_value: 91969A
+    :english_name: Telegrey 1
+    :ukrainian_name: Телесірий 1
+- :7046:
+    :ral_name: RAL 7046
+    :hex_value: 82898E
+    :english_name: Telegrey 2
+    :ukrainian_name: Телесірий 2
+- :7047:
+    :ral_name: RAL 7047
+    :hex_value: CFD0CF
+    :english_name: Telegrey 4
+    :ukrainian_name: Телесірий 4
+- :7048:
+    :ral_name: RAL 7048
+    :hex_value: '888175'
+    :english_name: Pearl mouse grey
+    :ukrainian_name: Перламутрово-мишачий сірий
+- :8000:
+    :ral_name: RAL 8000
+    :hex_value: '887142'
+    :english_name: Green brown
+    :ukrainian_name: Зелено-коричневий
+- :8001:
+    :ral_name: RAL 8001
+    :hex_value: 9C6B30
+    :english_name: Ochre brown
+    :ukrainian_name: Охрово-коричневий
+- :8002:
+    :ral_name: RAL 8002
+    :hex_value: 7B5141
+    :english_name: Signal brown
+    :ukrainian_name: Сигнальний коричневий
+- :8003:
+    :ral_name: RAL 8003
+    :hex_value: 80542F
+    :english_name: Clay brown
+    :ukrainian_name: Глиняний коричневий
+- :8004:
+    :ral_name: RAL 8004
+    :hex_value: 8F4E35
+    :english_name: Copper brown
+    :ukrainian_name: Мідний коричневий
+- :8007:
+    :ral_name: RAL 8007
+    :hex_value: 6F4A2F
+    :english_name: Fawn brown
+    :ukrainian_name: Сірувато-коричневий
+- :8008:
+    :ral_name: RAL 8008
+    :hex_value: 6F4F28
+    :english_name: Olive brown
+    :ukrainian_name: Оливково-коричневий
+- :8011:
+    :ral_name: RAL 8011
+    :hex_value: 5A3A29
+    :english_name: Nut brown
+    :ukrainian_name: Горіхово-коричневий
+- :8012:
+    :ral_name: RAL 8012
+    :hex_value: '673831'
+    :english_name: Red brown
+    :ukrainian_name: Червоно-коричневий
+- :8014:
+    :ral_name: RAL 8014
+    :hex_value: 49392D
+    :english_name: Sepia brown
+    :ukrainian_name: Сепія коричневий
+- :8015:
+    :ral_name: RAL 8015
+    :hex_value: 633A34
+    :english_name: Chestnut brown
+    :ukrainian_name: Каштаново-коричневий
+- :8016:
+    :ral_name: RAL 8016
+    :hex_value: 4C2F26
+    :english_name: Mahogany brown
+    :ukrainian_name: Махагон коричневий
+- :8017:
+    :ral_name: RAL 8017
+    :hex_value: 44322D
+    :english_name: Chocolate brown
+    :ukrainian_name: Шоколадно-коричневий
+- :8019:
+    :ral_name: RAL 8019
+    :hex_value: 3F3A3A
+    :english_name: Grey brown
+    :ukrainian_name: Сіро-коричневий
+- :8022:
+    :ral_name: RAL 8022
+    :hex_value: 211F20
+    :english_name: Black brown
+    :ukrainian_name: Чорно-коричневий
+- :8023:
+    :ral_name: RAL 8023
+    :hex_value: A65E2F
+    :english_name: Orange brown
+    :ukrainian_name: Помаранчево-коричневий
+- :8024:
+    :ral_name: RAL 8024
+    :hex_value: 79553C
+    :english_name: Beige brown
+    :ukrainian_name: Бежево-коричневий
+- :8025:
+    :ral_name: RAL 8025
+    :hex_value: 755C49
+    :english_name: Pale brown
+    :ukrainian_name: Блідо-коричневий
+- :8028:
+    :ral_name: RAL 8028
+    :hex_value: 4E3B2B
+    :english_name: Terra brown
+    :ukrainian_name: Теракотово-коричневий
+- :8029:
+    :ral_name: RAL 8029
+    :hex_value: 773C27
+    :english_name: Pearl copper
+    :ukrainian_name: Перлино-мідний
+- :9001:
+    :ral_name: RAL 9001
+    :hex_value: EFEBDC
+    :english_name: Cream
+    :ukrainian_name: Кремовий
+- :9002:
+    :ral_name: RAL 9002
+    :hex_value: DDDED4
+    :english_name: Grey white
+    :ukrainian_name: Сіро-білий
+- :9003:
+    :ral_name: RAL 9003
+    :hex_value: F4F8F4
+    :english_name: Signal white
+    :ukrainian_name: Сигнальний білий
+- :9004:
+    :ral_name: RAL 9004
+    :hex_value: 2E3032
+    :english_name: Signal black
+    :ukrainian_name: Сигнальний чорний
+- :9005:
+    :ral_name: RAL 9005
+    :hex_value: 0A0A0D
+    :english_name: Jet black
+    :ukrainian_name: Чорний
+- :9006:
+    :ral_name: RAL 9006
+    :hex_value: A5A8A6
+    :english_name: White aluminium
+    :ukrainian_name: Алюмінієво-білий
+- :9007:
+    :ral_name: RAL 9007
+    :hex_value: 8F8F8C
+    :english_name: Grey aluminium
+    :ukrainian_name: Алюмінієво-сірий
+- :9010:
+    :ral_name: RAL 9010
+    :hex_value: F7F9EF
+    :english_name: Pure white
+    :ukrainian_name: Чисто-білий
+- :9011:
+    :ral_name: RAL 9011
+    :hex_value: 292C2F
+    :english_name: Graphite black
+    :ukrainian_name: Графітно-чорний
+- :9012:
+    :ral_name: RAL 9012
+    :hex_value: FFFDE6
+    :english_name: Clean room white
+    :ukrainian_name: Білий для чистих приміщень
+- :9016:
+    :ral_name: RAL 9016
+    :hex_value: F7FBF5
+    :english_name: Traffic white
+    :ukrainian_name: Дорожній білий
+- :9017:
+    :ral_name: RAL 9017
+    :hex_value: 2A2D2F
+    :english_name: Traffic black
+    :ukrainian_name: Дорожній чорний
+- :9018:
+    :ral_name: RAL 9018
+    :hex_value: CFD3CD
+    :english_name: Papyrus white
+    :ukrainian_name: Папірусно-білий
+- :9022:
+    :ral_name: RAL 9022
+    :hex_value: 9C9C9C
+    :english_name: Pearl light grey
+    :ukrainian_name: Перлиновий світло-сірий
+- :9023:
+    :ral_name: RAL 9023
+    :hex_value: 7E8182
+    :english_name: Pearl dark grey
+    :ukrainian_name: Перлиновий темно-сірий
