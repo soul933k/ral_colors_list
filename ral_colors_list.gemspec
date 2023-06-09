@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = 'List of Classic RAL Colors'
   spec.description = 'Get specific information for Classic RAL Color. RAL name, English name, Ukrainian name, HEX value.'
-  spec.homepage = "https://tseivo.com/b/clrad."
+  spec.homepage = "https://tseivo.com/b/clrad"
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
 
